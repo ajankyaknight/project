@@ -1,3 +1,5 @@
+//The name of the file is count.php and it is a php file. Just writing this comment in order to particiopate in hacktoberfest. LOL.
+
 <?php 
 
 $servername = "localhost";
