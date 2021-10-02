@@ -4,8 +4,9 @@
 
 $servername = "localhost";
 $username   = "root";
-$password   = "";
+$password   = "123456789";
 $dbname     = "rtosystem";
+$table = "userdata";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
